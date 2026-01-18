@@ -1,0 +1,1 @@
+Projeto feito em um evento da RocketSeat chamado NLW Unite, onde foi abordado HTML, CSS e JavaScript básico, para a criação de uma página web estática simulando a inscrição de participantes de um evento.
